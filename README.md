@@ -1,4 +1,4 @@
-# RAG System - Complete Implementation: Document Retrieval & AI Response Generation
+# RAG System - Complete Implementation: Document Retrieval & AI Response Generation for libraries. 
 
 This is the complete implementation of a RAG (Retrieval-Augmented Generation) system that processes books, stores them in a vector database, and provides intelligent AI-powered responses using Groq LLM.
 
